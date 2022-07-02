@@ -1,0 +1,8 @@
+{
+  "name": "FunGalaxy",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "a6ef8700"
+}
